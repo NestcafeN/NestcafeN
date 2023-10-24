@@ -6,7 +6,7 @@
 - :man_student: Expected Graduation: August 2024
 - :round_pushpin: I'm from Concepcion, Chile:chile:
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Find me on Discord: nestcafen
+- 📫 How to reach me: Can find me on Discord as nestcafen
 - :earth_americas: English Proficiency: C1 (Advanced)
 
 
