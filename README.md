@@ -5,9 +5,9 @@
 - :man_student: I’m currently Studying Software Engineer at Universidad del Bio-bio
 - :man_student: Expected Graduation: August 2024
 - :round_pushpin: I'm from Concepcion, Chile:chile:
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently developing my thesis with React Native, JavaScript
 - 📫 How to reach me: Can find me on Discord as nestcafen
-- :earth_americas: English Proficiency: C1 (Advanced)
+- :earth_americas: English Proficiency: B2 
 
 
 <!--
